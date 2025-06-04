@@ -46,8 +46,8 @@
 ### 📫 Let's Connect
 
 - 🌐 [Portfolio Website](#) *(coming soon...)*
-- 📧 Email: sandeshkhatiwada05@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sandeshkhatiwada05)
+- 📧 Email: sandeshkhatiwada501@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sandesh-khatiwada-523b4626a/)
 
 ---
 
