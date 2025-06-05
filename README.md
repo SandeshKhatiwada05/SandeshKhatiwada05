@@ -12,7 +12,7 @@
 - 🌐 Comfortable with **HTML**, **CSS**, **JavaScript**, **PHP**, **Python**, **C**, **C++**, **C#**
 - ⚙️ Working with frameworks like **Spring Boot**, **Django**, **Flask**, **React**
 - 📊 Basic knowledge of **Power BI** for data visualization
-- 📚 Familiar with CS fundamentals like **DSA**, **DAA**, **DBMS**, **DS**, **Cryptography**, **AI**, **Automata Theory and Compiler Construction**, **Software Engineering**, **Microprocessor** **Computer Architecture** and **Computer Network***
+- 📚 Familiar with CS fundamentals like **DSA**, **DAA**, **DBMS**, **DS**, **Cryptography**, **AI**, **Automata Theory and Compiler Construction**, **Software Engineering**, **Microprocessor**, **Computer Architecture** and **Computer Network***
 
 ---
 
