@@ -1,9 +1,15 @@
-<h1 align="center">Hi 👋, I'm Sandesh Khatiwada</h1> 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Developer;Code+Lover;Spring+Boot+Developer;Tech+Learner" alt="Typing SVG" />
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Sandesh Khatiwada</h1> 
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Developer;Code+Lover;Spring+Boot+Developer;Tech+Learner" alt="Typing SVG" />
 </p>
-  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SandeshKhatiwada05&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
+
+---
+
 ---
 
 ### 👨‍💻 About Me
@@ -54,7 +60,7 @@
 - 📧 Email: sandeshkhatiwada501@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sandesh-khatiwada-523b4626a/)
 
----
+
 
 ### 📈 GitHub Stats
 
@@ -62,4 +68,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SandeshKhatiwada05&show_icons=true&theme=tokyonight" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandeshKhatiwada05&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🌱 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SandeshKhatiwada05&bg_color=1a1b27&color=9cf&line=7aa2f7&point=ffffff&area=true&hide_border=true" />
 </p>
