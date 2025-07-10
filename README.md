@@ -62,18 +62,18 @@
 
 
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SandeshKhatiwada05&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandeshKhatiwada05&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ### 🌱 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SandeshKhatiwada05&bg_color=1a1b27&color=9cf&line=7aa2f7&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
+### 🔥 GitHub Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SandeshKhatiwada05&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
