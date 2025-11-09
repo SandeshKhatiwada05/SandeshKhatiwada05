@@ -11,6 +11,7 @@
 ### 👨‍💻 About Me
 
 - 💻 Passionate about **Java** and **Spring Boot**
+- 🤖 Work with **Artificial Intelligence**, **Data Science**, and **Machine Learning** using Python, NumPy, Pandas, Scikit-learn, TensorFlow, Keras, and Matplotlib
 - 🌐 Comfortable with **HTML**, **CSS**, **JavaScript**, **PHP**, **Python**, **C**, **C++**, **C#**
 - ⚙️ Working with frameworks like **Spring Boot**, **Django**, **Flask**, **React**
 - 📊 Basic knowledge of **Power BI** for data visualization
