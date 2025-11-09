@@ -55,7 +55,7 @@
 ### 📫 Let's Connect
 
 - 🌐 [Portfolio Website](https://khatiwadasandesh.com.np/)
-- 📧 Email: sandeshkhatiwada501@gmail.com
+- 📧 Email: khatiwadasandesh501@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sandesh-khatiwada-523b4626a/)
 
 ---
