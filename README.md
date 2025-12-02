@@ -14,7 +14,7 @@
 - 💻 Passionate about **Java** and **Spring Boot**
 - 🤖 Work with **Artificial Intelligence**, **Data Science**, and **Machine Learning** using Python, NumPy, Pandas, Scikit-learn, TensorFlow, Keras, and Matplotlib
 - 🌐 Comfortable with **HTML**, **CSS**, **JavaScript**, **PHP**, **Python**, **C**, **C++**, **C#**
-- ⚙️ Working with frameworks like **Spring Boot**, **Django**, **Flask**, **React**
+- ⚙️ Working with frameworks like **Spring Boot**, **.NET**, **Django**, **Flask**
 - 📊 Basic knowledge of **Power BI** for data visualization
 - 📚 Familiar with CS fundamentals like **DSA**, **DAA**, **DBMS**, **DS**, **Cryptography**, **AI**, **Automata Theory and Compiler Construction**, **Software Engineering**, **Microprocessor**, **Computer              Architecture** and **Computer Network**
 
