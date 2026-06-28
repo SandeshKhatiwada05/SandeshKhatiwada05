@@ -1,30 +1,137 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Sandesh Khatiwada</h1>
+
+<!-- ========================================= -->
+<!--               HERO SECTION               -->
+<!-- ========================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Developer;AI+and+ML+Practitioner;Spring+Boot+Student" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0:1B211A,35:628141,70:8BAE66,100:EBD5AB&text=Sandesh%20Khatiwada&fontSize=50&fontColor=EBD5AB&animation=fadeIn&fontAlignY=36&desc=Java%20•%20Spring%20Boot%20•%20PostgreSQL%20•%20Cloud&descSize=18&descColor=EBD5AB&descAlignY=56"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3500&pause=900&center=true&vCenter=true&width=720&color=8BAE66&lines=Backend+Developer;Building+Scalable+REST+APIs;Spring+Boot+Enthusiast;Currently+Learning+Cloud+Architecture"/>
+</p>
+
+<p align="center">
+
+<a href="https://khatiwadasandesh.com.np">
+<img src="https://img.shields.io/badge/Portfolio-EBD5AB?style=for-the-badge&logo=googlechrome&logoColor=1B211A"/>
+</a>
+
+<a href="mailto:khatiwadasandesh501@gmail.com">
+<img src="https://img.shields.io/badge/Email-628141?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/sandesh-khatiwada-523b4626a">
+<img src="https://img.shields.io/badge/LinkedIn-8BAE66?style=for-the-badge&logo=linkedin&logoColor=1B211A"/>
+</a>
+
 </p>
 
 ---
 
-### 💼 About Me
-- Backend developer focused on Java and Spring Boot; building reliable APIs and services.
-- Working with AI/ML and data workflows: Python, NumPy, Pandas, scikit-learn, TensorFlow, Keras.
-- Comfortable with web tech and systems programming: JavaScript, HTML/CSS, PHP, C/C++, C#.
-- Strong CS fundamentals: DSA, DBMS, Compilers, Networks, Computer Architecture.
+# About Me
 
-### 🛠️ Tech Stack
-- Languages: Java, Python, JavaScript, C, C++, C#
-- Backend & Frameworks: Spring Boot, .NET, Django, Flask
-- ML & Data: TensorFlow, Keras, scikit-learn, Pandas
-- Databases: MySQL, PostgreSQL, MongoDB, CockroachDB
-- Tools: Docker, Git, Postman, JUnit, Power BI (basic)
+```java
+public class Sandesh {
 
-### ✉️ Contact
-- Website: https://khatiwadasandesh.com.np/
-- Email: khatiwadasandesh501@gmail.com
-- LinkedIn: https://www.linkedin.com/in/sandesh-khatiwada-523b4626a/
+    String role = "Backend Developer";
 
-### 📊 Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SandeshKhatiwada05&bg_color=1a1b27&color=9cf&line=7aa2f7&point=ffffff&area=true&hide_border=true" />
+    String[] currentlyWorkingWith = {
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "Docker"
+    };
+
+    String[] currentlyLearning = {
+        "Cloud",
+        "System Design",
+        "React (for frontend integration)"
+    };
+
+    String[] interests = {
+        "Backend Engineering",
+        "Distributed Systems",
+        "AI / ML",
+        "Clean Architecture"
+    };
+}
+```
+
+---
+
+# Tech Stack
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,spring,dotnet,hibernate"/>
+
 </p>
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+
+</p>
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,python,cs,js,c,cpp"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,idea,vscode"/>
+
+</p>
+
+### Currently Exploring
+
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,react"/>
+</p>
+
+</p>
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SandeshKhatiwada05&show_icons=true&hide_border=true&theme=transparent&title_color=8BAE66&text_color=EBD5AB&icon_color=628141"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SandeshKhatiwada05&theme=dark&hide_border=true&background=1B211A&stroke=628141&ring=8BAE66&fire=8BAE66&currStreakLabel=EBD5AB"/>
+
+</p>
+
+
+---
+
+# Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SandeshKhatiwada05&bg_color=1B211A&color=EBD5AB&line=8BAE66&point=628141&area=true&hide_border=true"/>
+
+</p>
+
+---
+
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1B211A,35:628141,70:8BAE66,100:EBD5AB"/>
+
+</p>
+
