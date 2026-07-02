@@ -109,8 +109,6 @@ public class Sandesh {
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SandeshKhatiwada05&show_icons=true&hide_border=true&theme=transparent&title_color=8BAE66&text_color=EBD5AB&icon_color=628141"/>
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SandeshKhatiwada05&theme=dark&hide_border=true&background=1B211A&stroke=628141&ring=8BAE66&fire=8BAE66&currStreakLabel=EBD5AB"/>
 
 </p>
