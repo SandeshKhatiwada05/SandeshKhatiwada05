@@ -114,35 +114,11 @@ public class Sandesh {
 </p>
 
 
----
-
-# Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SandeshKhatiwada05&bg_color=1B211A&color=EBD5AB&line=8BAE66&point=628141&area=true&hide_border=true"/>
-
-</p>
 
 ---
 
 
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1B211A,35:628141,70:8BAE66,100:EBD5AB"/>
-
-</p>
 
 
 
 
----
-
-<img align="center" src="https://streak-stats.demolab.com?user=SandeshKhatiwada05&theme=dark&cache_seconds=3600" />
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SandeshKhatiwada05/SandeshKhatiwada05/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
